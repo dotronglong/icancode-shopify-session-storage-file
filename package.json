@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "@shopify/shopify-api": "^7.3.1",
-    "@shopify/shopify-app-session-storage": "^1.1.4"
+    "@shopify/shopify-app-session-storage": "^1.1.10"
   }
 }

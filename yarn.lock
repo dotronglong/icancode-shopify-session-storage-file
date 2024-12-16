@@ -92,10 +92,10 @@
     tslib "^2.0.3"
     uuid "^9.0.0"
 
-"@shopify/shopify-app-session-storage@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/@shopify/shopify-app-session-storage/-/shopify-app-session-storage-1.1.4.tgz#fa93ebc38acff7bceb368b9af4447405aa7abdd4"
-  integrity sha512-8BgxZGK750pwvN3HEK9nq9uUjYpPtb2HnZaX/P0GBaMyLZbPmv+gyPLd8/AJq7d9hWeL3R/83V6YGqHh5QS90Q==
+"@shopify/shopify-app-session-storage@^1.1.10":
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/@shopify/shopify-app-session-storage/-/shopify-app-session-storage-1.1.10.tgz#90ad589c74954d6cf89e69c38b73c72e70ce9daf"
+  integrity sha512-B9/3qUUU+8675uB61NY3Zn7aW32YGdJEbDkKO6uHsjR3fuoJMlIpkDpjO0FistFy7YAW5Ql766THgP3axYk86A==
   dependencies:
     tslib "^2.4.0"
 

@@ -1,6 +1,6 @@
 {
   "name": "@icancode/shopify-session-storage-file",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple file session storage for shopify",
   "main": "main",
   "scripts": {
@@ -36,7 +36,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "@shopify/shopify-api": "^9.1.0",
-    "@shopify/shopify-app-session-storage": "^1.1.4"
+    "@shopify/shopify-api": "^11.6.1",
+    "@shopify/shopify-app-session-storage": "^3.0.9"
   }
 }
